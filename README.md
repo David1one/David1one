@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm David McMahon. I'm a physics undergraduate, and I code quite heavily as part of that, primarily with Python.
+
+I'm currently a member of the Biophotonics@Tyndall team at the Tyndall National Institute - please check them out.
+
+🔭 I’m currently working on Raspberry Pi, and I'm hoping to have enough experience to help mentor the ninjas at Coderdojo Bishopstown once we reopen. I'm open to any projects suggestions I could bring them through to introduce the machine to them.
+
 <!--
 **David1one/David1one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
